@@ -64,3 +64,7 @@ This is a repository for deploying my studies with Spark.
 - Renaming the "col" field to "tweets" and selecting all the elements of the first row:
 
 ![image](https://user-images.githubusercontent.com/81119854/145255130-33fff4c1-a422-4d3b-91cb-ea4781f42974.png)
+
+- *public_metrics* is also a structure. Thus, we need to explode this structure too. It will be available now in a flat format:
+
+![image](https://user-images.githubusercontent.com/81119854/145257339-92797c00-45f3-4a61-a515-0a01bb1569e4.png)
