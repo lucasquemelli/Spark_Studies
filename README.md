@@ -87,3 +87,10 @@ This is a repository for deploying my studies with Spark.
 ![image](https://user-images.githubusercontent.com/81119854/145261179-95339c97-5d4a-4b10-acd4-b683f13cd2d3.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/145261379-69ec275b-491e-44e0-be3a-a65692f13903.png)
+
+- Question: what are the commands that I must execute to read a JSON file, print its structure and then print the last 3 IDs?
+
+from spark.sql import functions as f
+df = spark.read.json(“file/path.json”)
+df.printSchema()
+df.select(“ID”).orderBy(f.desc(“ID”)).show(3)
