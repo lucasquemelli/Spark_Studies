@@ -60,3 +60,7 @@ This is a repository for deploying my studies with Spark.
 - Using the explode function to display all the elements of the first row of "data":
 
 ![image](https://user-images.githubusercontent.com/81119854/145253956-6c42d794-b93f-49c6-b293-f0030858722f.png)
+
+- Renaming the "col" field to "tweets" and selecting all the elements of the first row:
+
+![image](https://user-images.githubusercontent.com/81119854/145255130-33fff4c1-a422-4d3b-91cb-ea4781f42974.png)
