@@ -74,3 +74,6 @@ This is a repository for deploying my studies with Spark.
 ![image](https://user-images.githubusercontent.com/81119854/145257832-6d967efe-5da8-4479-b8c4-4ca27c943acc.png)
 ![image](https://user-images.githubusercontent.com/81119854/145257921-4094e771-49ed-4af5-9342-27bea3ad7301.png)
 
+- Only the first row to better visualize the new format:
+
+![image](https://user-images.githubusercontent.com/81119854/145258446-150df8ea-e555-417b-a813-a2568dd82f9a.png)
