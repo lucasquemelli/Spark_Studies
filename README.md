@@ -68,3 +68,9 @@ This is a repository for deploying my studies with Spark.
 - *public_metrics* is also a structure. Thus, we need to explode this structure too. It will be available now in a flat format:
 
 ![image](https://user-images.githubusercontent.com/81119854/145257339-92797c00-45f3-4a61-a515-0a01bb1569e4.png)
+
+- Displaying all the transformed structure:
+
+![image](https://user-images.githubusercontent.com/81119854/145257832-6d967efe-5da8-4479-b8c4-4ca27c943acc.png)
+![image](https://user-images.githubusercontent.com/81119854/145257921-4094e771-49ed-4af5-9342-27bea3ad7301.png)
+
