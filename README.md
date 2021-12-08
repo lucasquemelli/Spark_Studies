@@ -26,3 +26,7 @@ Transforming RDD into a dataframe:
 Displaying the data in the dataframe:
 
 ![image](https://user-images.githubusercontent.com/81119854/145244195-b58e9ada-d2a5-4633-909d-46309c3adb63.png)
+
+Calling a list and its order:
+
+![image](https://user-images.githubusercontent.com/81119854/145244519-66b231be-4692-4867-b2c4-4c1e985462fc.png)
