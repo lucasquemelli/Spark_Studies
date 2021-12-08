@@ -23,3 +23,6 @@ Transforming RDD into a dataframe:
 
 ![image](https://user-images.githubusercontent.com/81119854/145244036-b19814b3-f006-4da4-9083-d4b9097f310c.png)
 
+Displaying the data in the dataframe:
+
+![image](https://user-images.githubusercontent.com/81119854/145244195-b58e9ada-d2a5-4633-909d-46309c3adb63.png)
