@@ -30,3 +30,7 @@ Displaying the data in the dataframe:
 Calling a list and its order:
 
 ![image](https://user-images.githubusercontent.com/81119854/145244519-66b231be-4692-4867-b2c4-4c1e985462fc.png)
+
+Creating and displaying a temporary view/table:
+
+![image](https://user-images.githubusercontent.com/81119854/145244940-26399203-c457-4363-a2e6-35d3b3a8d83c.png)
