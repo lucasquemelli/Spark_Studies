@@ -38,3 +38,7 @@ Creating and displaying a temporary view/table:
 Selecting column "n" from table "numeros":
 
 ![image](https://user-images.githubusercontent.com/81119854/145245185-bfd96d02-5822-4148-9be7-73d9c9639fa1.png)
+
+Selecting the sum of the column "n":
+
+![image](https://user-images.githubusercontent.com/81119854/145245492-c7ac61b1-5855-4838-ae8d-00490accb668.png)
