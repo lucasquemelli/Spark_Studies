@@ -56,3 +56,7 @@ This is a repository for deploying my studies with Spark.
 - Selecting "data" and "id" and displaying all the elements of the first row:
 
 ![image](https://user-images.githubusercontent.com/81119854/145249339-329515cf-943e-4a6a-b9b5-23cd0c78a758.png)
+
+- Using the explode function to display all the elements of the first row of "data":
+
+![image](https://user-images.githubusercontent.com/81119854/145253956-6c42d794-b93f-49c6-b293-f0030858722f.png)
