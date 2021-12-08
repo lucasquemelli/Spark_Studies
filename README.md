@@ -44,3 +44,12 @@ This is a repository for deploying my studies with Spark.
 ![image](https://user-images.githubusercontent.com/81119854/145245492-c7ac61b1-5855-4838-ae8d-00490accb668.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/145245683-a69c4666-ea6a-4046-8efe-b32d3d330148.png)
+
+- Working with a larger dataframe:
+
+![image](https://user-images.githubusercontent.com/81119854/145248992-f676ff6a-3004-41be-8d71-47cfdafb4a13.png)
+
+- Selecting "data" and "id" and displaying the first row:
+
+![image](https://user-images.githubusercontent.com/81119854/145249206-943004ae-5300-45df-b57c-0c1b74b04012.png)
+
