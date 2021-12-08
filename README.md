@@ -77,3 +77,7 @@ This is a repository for deploying my studies with Spark.
 - Only the first row to better visualize the new format:
 
 ![image](https://user-images.githubusercontent.com/81119854/145258446-150df8ea-e555-417b-a813-a2568dd82f9a.png)
+
+- Now, we are going to perform the same steps as before, yet with "users" instead of "data". It is important to note that it is only possible to apply explode function in arrays. 
+
+![image](https://user-images.githubusercontent.com/81119854/145259804-b96d3fa9-f2b6-4d05-8a4f-c8f90d00c990.png)
