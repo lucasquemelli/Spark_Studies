@@ -19,4 +19,7 @@ Collecting RDD unique values:
 
 ![image](https://user-images.githubusercontent.com/81119854/145231797-e761b44b-7716-4861-a1bd-03ea2f4cc5e8.png)
 
+Transforming RDD into a dataframe:
+
+![image](https://user-images.githubusercontent.com/81119854/145244036-b19814b3-f006-4da4-9083-d4b9097f310c.png)
 
