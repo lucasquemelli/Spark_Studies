@@ -34,3 +34,7 @@ Calling a list and its order:
 Creating and displaying a temporary view/table:
 
 ![image](https://user-images.githubusercontent.com/81119854/145244940-26399203-c457-4363-a2e6-35d3b3a8d83c.png)
+
+Selecting column "n" from table "numeros":
+
+![image](https://user-images.githubusercontent.com/81119854/145245185-bfd96d02-5822-4148-9be7-73d9c9639fa1.png)
